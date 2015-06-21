@@ -42,28 +42,28 @@ El primer paso serio al mundo del Desarrollo Web con HTML5 y CSS3
 * [CSScomb](https://github.com/csscomb): analiza tu CSS para optimizarlo antes de publicarlo.
 
 
-** Recursos
+## Recursos
 
-***Nombres de Frameworks:
-bass css
-bootstrap
-building-blocks
-effeckt.css
-fundation
-generator-mobile-boilerplate
-ghost
-html-kickstar
-html5-boilerplate
-inuitcss
-ionic
-lungo.js
-mobile-boilerplate
-montage
-pure
-quojs
-skeleton
-survivac-kit
-topcoat
-tuktuk
-uikit
-web-starter-kit
+### Nombres de Frameworks:
+- bass css
+- bootstrap
+- building-blocks
+- effeckt.css
+- fundation
+- generator-mobile-boilerplate
+- ghost
+- html-kickstar
+- html5-boilerplate
+- inuitcss
+- ionic
+- lungo.js
+- mobile-boilerplate
+- montage
+- pure
+- quojs
+- skeleton
+- survivac-kit
+- topcoat
+- tuktuk
+- uikit
+- web-starter-kit
