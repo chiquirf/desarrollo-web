@@ -26,20 +26,20 @@ El primer paso serio al mundo del Desarrollo Web con HTML5 y CSS3
 ## Enlaces de interés
 
 
-[HTML5 Test](http://html5test.com/): test de compatibilidad de tu navegador.
-[CSS3 Test](http://css3test.com/): test de compatibilidad de tu navegador.
-[HTML5 Please](http://html5please.com/): Saber si se puede usar una funcionalidad HTML5 o CSS3 con o sin ayuda de Polyfills
-[Can I user](http://caniuse.com/): Informa que funcionalidades de HTML5 o CSS3 es compatible con cada navegador... y más.
-[CSS Lint](http://csslint.net/): mostrar errores de CSS, basandose en el stantar de la W3C.
-[Markup Validation Service](https://validator.w3.org/): Validador de la W3C del código HTML
-[CSS Validation Service](http://www.css-validator.org/): Validador de la W3C del código CSS
-[Microdatos](slides.com/joanleon/formatos-enriquezidos): presentación de curso sobre microdatos, importantes para SEO
-[Schema](http://schema.org): Schema de los microdatos
-[Schema Creator](http://schema-creator.org/): Generador de Schemas básicos.
-[HTML5 Pattern](http://html5pattern.com/): Expresiones regulares básicas.
-[Sprites](http://coolvillage.es/entendiendo-los-sprites/): Entendiendo los sprites (conjunto de imágenes agrupadas en una sola imagen)
-[CSS Stats](http://cssstats.com/): análisis de tu web para optimizar (por ejemplo unificar #fff = #ffffff = #eee)
-[CSScomb](https://github.com/csscomb): analiza tu CSS para optimizarlo antes de publicarlo.
+* [HTML5 Test](http://html5test.com/): test de compatibilidad de tu navegador.
+* [CSS3 Test](http://css3test.com/): test de compatibilidad de tu navegador.
+* [HTML5 Please](http://html5please.com/): Saber si se puede usar una funcionalidad HTML5 o CSS3 con o sin ayuda de Polyfills
+* [Can I user](http://caniuse.com/): Informa que funcionalidades de HTML5 o CSS3 es compatible con cada navegador... y más.
+* [CSS Lint](http://csslint.net/): mostrar errores de CSS, basandose en el stantar de la W3C.
+* [Markup Validation Service](https://validator.w3.org/): Validador de la W3C del código HTML
+* [CSS Validation Service](http://www.css-validator.org/): Validador de la W3C del código CSS
+* [Microdatos](slides.com/joanleon/formatos-enriquezidos): presentación de curso sobre microdatos, importantes para SEO
+* [Schema](http://schema.org): Schema de los microdatos
+* [Schema Creator](http://schema-creator.org/): Generador de Schemas básicos.
+* [HTML5 Pattern](http://html5pattern.com/): Expresiones regulares básicas.
+* [Sprites](http://coolvillage.es/entendiendo-los-sprites/): Entendiendo los sprites (conjunto de imágenes agrupadas en una sola imagen)
+* [CSS Stats](http://cssstats.com/): análisis de tu web para optimizar (por ejemplo unificar #fff = #ffffff = #eee)
+* [CSScomb](https://github.com/csscomb): analiza tu CSS para optimizarlo antes de publicarlo.
 
 
 ** Recursos
