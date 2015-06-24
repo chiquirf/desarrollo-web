@@ -11,6 +11,7 @@ El primer paso serio al mundo del Desarrollo Web con HTML5 y CSS3
 	- [Boilerplate](https://html5boilerplate.com/)
 	- [Bootstrap](http://getbootstrap.com/)
 	- [WebComponents](http://webcomponents.org/) ([Polymer-Proyect](https://www.polymer-project.org) y [Custom Elements](https://customelements.io/))
+	- [SASS](http://sass-lang.com/)
 * **SEO**
     - [Microdatos](slides.com/joanleon/formatos-enriquezidos): [Schema](http://schema.org) / [Schema Creator](http://schema-creator.org/)
 * **WORDPRESS** (pendiente de definir exactamente qué estudiar pero para una primera pincelada...)
@@ -19,7 +20,6 @@ El primer paso serio al mundo del Desarrollo Web con HTML5 y CSS3
     - listado de plugins escenciales.
 * Otros adicionales:
     - UX: User Experience (buscar donde aprender)
-	- [LESS](http://lesscss.org/)
 
 
 
@@ -44,6 +44,9 @@ El primer paso serio al mundo del Desarrollo Web con HTML5 y CSS3
 
 ## Recursos
 
+IconMoon y FontAwesome
+
+
 ### Nombres de Frameworks:
 - bass css
 - bootstrap
@@ -67,3 +70,7 @@ El primer paso serio al mundo del Desarrollo Web con HTML5 y CSS3
 - tuktuk
 - uikit
 - web-starter-kit
+
+https://wrapbootstrap.com/   Bootstrap themes & Templates
+https://wrapbootstrap.com/theme/me-flat-flat-personal-portfolio-WB094T9L8
+https://wrapbootstrap.com/theme/d-cubed-modern-personal-portfolio-WB08LL3NM
