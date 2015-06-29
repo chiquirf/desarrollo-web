@@ -30,6 +30,8 @@ El primer paso serio al mundo del Desarrollo Web con HTML5 y CSS3
 * [CSS3 Test](http://css3test.com/): test de compatibilidad de tu navegador.
 * [HTML5 Please](http://html5please.com/): Saber si se puede usar una funcionalidad HTML5 o CSS3 con o sin ayuda de Polyfills
 * [Can I user](http://caniuse.com/): Informa que funcionalidades de HTML5 o CSS3 es compatible con cada navegador... y más.
+* [MDN](https://developer.mozilla.org/es/): Mozilla Developer Network - Documentación de estandar W3C.
+* [W3School](http://www.w3schools.com/): Documentación de estandar W3C, ejemplos, ayuda, etc...
 * [CSS Lint](http://csslint.net/): mostrar errores de CSS, basandose en el stantar de la W3C.
 * [Markup Validation Service](https://validator.w3.org/): Validador de la W3C del código HTML
 * [CSS Validation Service](http://www.css-validator.org/): Validador de la W3C del código CSS
@@ -40,6 +42,25 @@ El primer paso serio al mundo del Desarrollo Web con HTML5 y CSS3
 * [Sprites](http://coolvillage.es/entendiendo-los-sprites/): Entendiendo los sprites (conjunto de imágenes agrupadas en una sola imagen)
 * [CSS Stats](http://cssstats.com/): análisis de tu web para optimizar (por ejemplo unificar #fff = #ffffff = #eee)
 * [CSScomb](https://github.com/csscomb): analiza tu CSS para optimizarlo antes de publicarlo.
+* [Stat Counter](http://gs.statcounter.com/): estadísticas de uso de navegadores.
+* [Velocity](https://velocity.silverlakesoftware.com/): Documentation Library (Dash para Win)
+* [Flexbox - Joan](http://nucliweb.github.io/flexbox/#/): presentación de Joan explicando FLEXBOX
+* [CODEPEN](http://codepen.io/): repositorios de códigos de ejemplo con HTML CSS y JS (puedes crearlo tuyos propios)
+* [FontAwesome](http://fortawesome.github.io/Font-Awesome/): iconos con fuentes
+* [LittleBox](http://littlebox.cabmaddux.com/): iconos con fuentes
+* [IconMoon](https://icomoon.io/): iconos con fuentes
+* [CSS Shapes - CSSTricks](https://css-tricks.com/examples/ShapesOfCSS/): Ejemplos CSS Shapes
+* [NTH-TEST](http://nth-test.com/): Test de PseudosElementos.
+* [ScreenSizes](http://screensiz.es/phone): tamaños de pantallas de móviles/tablets
+* [CSSTricks](https://css-tricks.com/): Trucos con CSS !important
+* [PIXtoEM](http://pxtoem.com/): conversor de PX a EM
+* [BradFrost](http://bradfrost.com/web/): diseñador web movil y front-end
+* [Ink](http://zurb.com/ink/): Mail Framework
+* [Cubic Bezier](http://cubic-bezier.com/): Funcion Cubic Bezier para transiciones en CSS3
+* [MDN - Usando Animaciones CSS](https://developer.mozilla.org/es/docs/Web/CSS/Usando_animaciones_CSS): Atributos y ejemplos de Animaciones CSS
+
+
+
 
 
 ## Recursos
