@@ -6,12 +6,12 @@ El primer paso serio al mundo del Desarrollo Web con HTML5 y CSS3
 * **HTML5** : todas las etiquetas HTML y HTML5 ([W3School-HTML](http://www.w3schools.com/html/default.asp))
 * **CSS3** : todos los estilos CSS y CSS3 ([W3School-CSS](http://www.w3schools.com/css/default.asp))
 * **JS** : mínimo hasta intermedio o sobre la marcha según necesitades ([W3School-JS](http://www.w3schools.com/js/default.asp))
-* **Nodernizar** : ([Modernizr.com](http://modernizr.com/) y [Normalice.css](http://necolas.github.io/normalize.css/))
+* **Nodernizar** : ([Modernizr.com HTML5](http://modernizr.com/) y [Normalice.css CSS3](http://necolas.github.io/normalize.css/))
 * **FRAMEWORKS**
 	- [Boilerplate](https://html5boilerplate.com/)
 	- [Bootstrap](http://getbootstrap.com/)
 	- [WebComponents](http://webcomponents.org/) ([Polymer-Proyect](https://www.polymer-project.org) y [Custom Elements](https://customelements.io/))
-	- [SASS](http://sass-lang.com/)
+	- [SASS](http://sass-lang.com/) ([Prepos.io](https://prepros.io/) y [Koala](http://koala-app.com/))
 * **SEO**
     - [Microdatos](slides.com/joanleon/formatos-enriquezidos): [Schema](http://schema.org) / [Schema Creator](http://schema-creator.org/)
 * **WORDPRESS** (pendiente de definir exactamente qué estudiar pero para una primera pincelada...)
