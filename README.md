@@ -3,9 +3,9 @@ Primeros pasos para ser Maquetador Senior Web con HTML5, CSS3 y JS
 
 ## LISTA DE ToDo's
 
-* **HTML5** : todas las etiquetas HTML y HTML5 ([W3School-HTML](http://www.w3schools.com/html/default.asp))
-* **CSS3** : todos los estilos CSS y CSS3 ([W3School-CSS](http://www.w3schools.com/css/default.asp))
-* **JS** : hasta intermedio o sobre la marcha según necesidades ([W3School-JS](http://www.w3schools.com/js/default.asp))
+* **HTML5** : todas las etiquetas HTML y HTML5 ([W3School-HTML](http://www.w3schools.com/html/default.asp) / [DesarrolloWeb-HTML](http://www.desarrolloweb.com/html/))
+* **CSS3** : todos los estilos CSS y CSS3 ([W3School-CSS](http://www.w3schools.com/css/default.asp)  / [DesarrolloWeb-CSS](http://www.desarrolloweb.com/css/))
+* **JS** : hasta intermedio o sobre la marcha según necesidades ([W3School-JS](http://www.w3schools.com/js/default.asp) / [DesarrolloWeb-JS](http://www.desarrolloweb.com/javascript/) )
 * **NORMALIZAR** : plugins para normalizar los navegadores: ([Modernizr.com HTML5](http://modernizr.com/) y [Normalice.css CSS3](http://necolas.github.io/normalize.css/))
 * **FRAMEWORKS**
 	- [Boilerplate - HTML](https://html5boilerplate.com/)
