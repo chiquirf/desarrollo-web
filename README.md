@@ -1,35 +1,35 @@
 # FRONT-END DEVELOPER
-El primer paso serio al mundo del Desarrollo Web con HTML5 y CSS3
+Primeros pasos para ser Maquetador Senior Web con HTML5, CSS3 y JS
 
-## LISTA DE TODO
+## LISTA DE ToDo's
 
 * **HTML5** : todas las etiquetas HTML y HTML5 ([W3School-HTML](http://www.w3schools.com/html/default.asp))
 * **CSS3** : todos los estilos CSS y CSS3 ([W3School-CSS](http://www.w3schools.com/css/default.asp))
-* **JS** : mínimo hasta intermedio o sobre la marcha según necesitades ([W3School-JS](http://www.w3schools.com/js/default.asp))
-* **MODERNIZAR** : ([Modernizr.com HTML5](http://modernizr.com/) y [Normalice.css CSS3](http://necolas.github.io/normalize.css/))
+* **JS** : hasta intermedio o sobre la marcha según necesidades ([W3School-JS](http://www.w3schools.com/js/default.asp))
+* **NORMALIZAR** : plugins para normalizar los navegadores: ([Modernizr.com HTML5](http://modernizr.com/) y [Normalice.css CSS3](http://necolas.github.io/normalize.css/))
 * **FRAMEWORKS**
-	- [Boilerplate](https://html5boilerplate.com/)
-	- [Bootstrap](http://getbootstrap.com/)
-	- [SASS](http://sass-lang.com/) ([Prepos.io](https://prepros.io/) y [Koala](http://koala-app.com/))
+	- [Boilerplate - HTML](https://html5boilerplate.com/)
+	- [Bootstrap - CSS](http://getbootstrap.com/)
+	- [SASS - CSS](http://sass-lang.com/) ([Prepos.io](https://prepros.io/) y [Koala](http://koala-app.com/))
 	- [WebComponents](http://webcomponents.org/) ([Polymer-Proyect](https://www.polymer-project.org) y [Custom Elements](https://customelements.io/))
 * **SEO**
     - [Microdatos](slides.com/joanleon/formatos-enriquezidos): [Schema](http://schema.org) / [Schema Creator](http://schema-creator.org/)
 * **WORDPRESS** (pendiente de definir exactamente qué estudiar pero para una primera pincelada...)
     - Crear plantillas desde cero.
     - Crearlas con Bootstrap.
-    - listado de plugins escenciales.
+    - listado de plugins esenciales.
 * Otros adicionales:
     - UX: User Experience (buscar donde aprender)
 
 
 
-## ENLACES DE INTERES
+## ENLACES DE INTERÉS
 
 ###Test y validaciones
 * [HTML5 Test](http://html5test.com/): test de compatibilidad de tu navegador.
 * [CSS3 Test](http://css3test.com/): test de compatibilidad de tu navegador.
 * [CSS Stats](http://cssstats.com/): análisis de tu web para optimizar (por ejemplo unificar #fff = #ffffff = #eee)
-* [CSS Lint](http://csslint.net/): mostrar errores de CSS, basandose en el stantar de la W3C.
+* [CSS Lint](http://csslint.net/): mostrar errores de CSS, basándose en el estándar de la W3C.
 * [CSScomb](https://github.com/csscomb): analiza tu CSS para optimizarlo antes de publicarlo.
 * [Markup Validation Service](https://validator.w3.org/): Validador de la W3C del código HTML
 * [CSS Validation Service](http://www.css-validator.org/): Validador de la W3C del código CSS
@@ -37,8 +37,8 @@ El primer paso serio al mundo del Desarrollo Web con HTML5 y CSS3
 
 
 ###Documentación
-* [MDN](https://developer.mozilla.org/es/): Mozilla Developer Network - Documentación de estandar W3C.
-* [W3School](http://www.w3schools.com/): Documentación de estandar W3C, ejemplos, ayuda, etc...
+* [MDN](https://developer.mozilla.org/es/): Mozilla Developer Network - Documentación de estándar W3C.
+* [W3School](http://www.w3schools.com/): Documentación de estándar W3C, ejemplos, ayuda, etc...
 * [Velocity](https://velocity.silverlakesoftware.com/): Documentation Library (Dash para Win)
 * [ScreenSizes](http://screensiz.es/phone): tamaños de pantallas de móviles/tablets
 
