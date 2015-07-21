@@ -78,6 +78,27 @@ Primeros pasos para ser Maquetador Senior Web con HTML5, CSS3 y JS
 * [Cubic Bezier](http://cubic-bezier.com/): Funcion Cubic Bezier para transiciones en CSS3
 
 
+### Navegadores
+
+#### Chrome
+* [hrome](https://www.google.es/chrome/browser/)
+* [Chrome Canary](https://www.google.es/chrome/browser/canary.html)
+
+#### Firefox
+* [Firefox](https://www.mozilla.org/en-US/firefox/channel/#firefox)
+* [Firefox Beta](https://www.mozilla.org/en-US/firefox/channel/#beta)
+* [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/#developer)
+* [Firefox Nightly](https://nightly.mozilla.org/)
+
+#### Safari
+* [Safari](https://www.apple.com/es/safari/)
+* [Webkit Open Source](https://www.webkit.org/)
+
+#### Opera
+* [Opera](http://www.opera.com/es)
+* [Opera Beta](http://www.opera.com/es/computer/beta)
+* [Opera Developers](http://www.opera.com/es/developer)
+
 
 
 
