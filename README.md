@@ -20,6 +20,7 @@ Primeros pasos para ser Maquetador Senior Web con HTML5, CSS3 y JS
     - listado de plugins esenciales.
 * Otros adicionales:
     - UX: User Experience (buscar donde aprender)
+    - [Google Fonts](https://www.google.com/fonts/) - Artículo con instrucciones [aquí](http://www.adhamdannaway.com/blog/web-design/embed-fonts-in-your-website-with-google-web-fonts)
 
 
 
