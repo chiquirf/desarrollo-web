@@ -77,6 +77,7 @@ Primeros pasos para ser Maquetador Senior Web con HTML5, CSS3 y JS
 * [BradFrost](http://bradfrost.com/web/): diseñador web movil y front-end
 * [MDN - Usando Animaciones CSS](https://developer.mozilla.org/es/docs/Web/CSS/Usando_animaciones_CSS): Atributos y ejemplos de Animaciones CSS
 * [Cubic Bezier](http://cubic-bezier.com/): Funcion Cubic Bezier para transiciones en CSS3
+* [Placehold Image](http://placehold.it/): Crear imagenes online para PlaceHolder 
 
 
 ### Navegadores
