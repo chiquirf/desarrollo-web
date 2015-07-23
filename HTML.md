@@ -24,7 +24,16 @@
   - footer	Defines a footer for a document or a section
   - details	Defines additional details
   - summary	Defines a heading for the details element
-
-
-
-
+* FORMS - HTML5 &lt;datalist> Element specifies a list of pre-defined options for an &ltinput> element.
+* INPUT HTML TYPES: text, password, submit, radio, checkbox, button, 
+* INPUT HTM5 TYPES: color, date, datetime, datetime-local, email, month, number, range, search, tel, time, url, week
+* Attr *form="idform"* en un input, se puede incluir dentro de un Form (id="form1") un input que esté fuera de la etiqueta form, agregando el atributo *form="form1"*
+* Use simple syntax for linking style sheets (CSS) and for loading external scripts (JS): the type attribute is not necessary.
+* HTML APIs : 
+  - Geolocation (HTML Geolocation is used to locate a user's position.)
+  - Drag/Drop (Drag and drop is a part of the HTML5 standard.)
+  - Local Storage (HTML local storage, better than cookies.)
+  - Application Cache (accessible without an internet connection)
+  - Web Workers (A web worker is a JavaScript running in the background, without affecting the performance of the page.)
+  - Server-Sent Events (Server-Sent Events allow a web page to get updates from a server.)
+  
