@@ -21,26 +21,29 @@
 #CSS3 tips:
 
 * CSS3 background (IE>9)
-  - Syntax > background: color image position/size repeat origin clip attachment initial|inherit;
-  - multiples fondos separando sus valores con "comas", ejemplo >> background: url(img_flwr.gif) right bottom no-repeat, url(paper.gif) left top repeat;
-  - background-size: size (px em %) // contain (ajusta img para que entre toda en el contenedor) // cover (ajusta para que llene todo el contenedor)
+  - SHORTHAND: background: color image position/size repeat origin clip attachment initial|inherit;
+  - multiples fondos separando sus valores con "comas", ejemplo >>> background: url(img_flwr.gif) right bottom no-repeat, url(paper.gif) left top repeat;
   - Full Size Background Image. ejem >> html { background: url(img_flower.jpg) no-repeat center center fixed; background-size: cover; }
-  - background-origin: donde se posiciona la imagen de fondo, y contando desde: padding-box (default) / border-box / content-box
-  - background-clip: define área a pintar de fondo, y contando desde: border-box (default) / padding-box / content-box
+  - background-size: auto|length|cover|contain|initial|inherit; >>> "length" = [todo | ancho alto] // "contain" ajusta img para que entre toda en el contenedor // "cover" ajusta para que llene todo el contenedor.
+  - background-origin: padding-box|border-box|content-box|initial|inherit;  >>>  donde se posiciona la imagen de fondo, y contando desde: padding-box (default) / border-box / content-box.
+  - background-clip: border-box|padding-box|content-box|initial|inherit; >>> define área a pintar de fondo, y contando desde: border-box (default) / padding-box / content-box.
 * CSS3 Colors (IE>9)
   - CSS supports color names, hexadecimal and RGB colors, CSS3: RGBA colors, HSL colors, HSLA colors, opacity. ejem >>> rgba(255, 0, 0, 0.6);
   - rgba(red, green, blue, alpha) >> rgba(0-255, 0-255, 0-255, 0-1)
-  - hsla(hue, saturation, lightness, alpha) >> hsla(0-360, 0-100%, 0-100%, 0-1) // hue: 0 o 360 red, 120 is green, 240 is blue ; Saturation 100% full color ; Lightness 0% is dark (black) and 100% is white.
+  - hsla(hue, saturation, lightness, alpha) >> hsla(0-360, 0-100%, 0-100%, 0-1) >>> hue: 0 o 360 = red, 120 = green, 240 = blue ; Saturation 100% full color ; Lightness 0% is dark (black) and 100% is white.
   - Opacity: background-color:rgb(255,0,0);opacity:0.6;  == background-color:rgba(255,0,0,0.6);
-* CSS3 Gradients (IE>10) background: (+prefix) linear-gradient(direction, color-stop1, color-stop2, ...);  [CSS-tricks - CSS3Gradient](https://css-tricks.com/examples/CSS3Gradient
-* CSS3 text Shadow Effects (IE>10) Syntax > text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;  Acepta Multiple Shadows separandolo con comas.
-* CSS3 box Shadow Effects (IE>9.0 +prefix) Syntax > box-shadow: none|h-shadow v-shadow blur spread color |inset|initial|inherit;  Acepta Multiple Shadows separandolo con comas.
+* CSS3 Gradients (IE>10) 
+  - background: (+prefix)linear-gradient(direction, color-stop1, color-stop2, ...);  [CSS-tricks - CSS3Gradient](https://css-tricks.com/examples/CSS3Gradient)
+* CSS3 text Shadow Effects (IE>10) 
+  - text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;  >>> Acepta Multiple Shadows separandolo con comas.
+* CSS3 box Shadow Effects (IE>9.0 +prefix)
+  - box-shadow: none|h-shadow v-shadow blur spread color |inset|initial|inherit;  Acepta Multiple Shadows separandolo con comas.
 * CSS3 Text
-  - text-overflow: clip|ellipsis|string|initial|inherit; >>> muestra solo el texto que cabe dentro de un contenedor, combinar con "white-space: nowrap; overflow: hidden;" / ellipsis agrega puntos suspensivos al final.
-  - word-wrap: normal|break-word|initial|inherit;  >>> default "normal" que no corta las palabras y se ven fuera del contenedor, usar "break-word" para cortar las palabras sin contar sílabas de idioma.
-  - word-break: normal|break-all|keep-all|initial|inherit; >>> break-all rompe las palabras por caracteres para encajar en el contenedor. Por defecto no corta las palabras... ES LO NORMAL :)
+  - text-overflow: clip|ellipsis|string|initial|inherit; (IE>6) >>> muestra solo el texto que cabe dentro de un contenedor, combinar con "white-space: nowrap; overflow: hidden;" / ellipsis agrega puntos suspensivos al final.
+  - word-wrap: normal|break-word|initial|inherit; (IE>5.5) >>> default "normal" que no corta las palabras y se ven fuera del contenedor, usar "break-word" para cortar las palabras sin contar sílabas de idioma.
+  - word-break: normal|break-all|keep-all|initial|inherit; (IE>5.5)  >>> break-all rompe las palabras por caracteres para encajar en el contenedor. Por defecto no corta las palabras... ES LO NORMAL :)
 * CSS3 Web Fonts (IE >9) 
-  - @font-face { font-family: myFirstFont; src: url(sansation_light.woff); } *IE: The font format only works when set to be "installable" <<< Creo que se refiere al FTP con permisos 777.  // para tipo bold: 
+  - @font-face { font-family: myFirstFont; src: url(sansation_light.woff); } *IE: The font format only works when set to be "installable" <<< Creo que se refiere al FTP con permisos 777.
   - Using Bold Text: agregar otra declaración agregando las reglas: @font-face { font-family: myFirstFont; src: url(sansation_bold.woff); font-weight: bold; }
   - Font Descriptors : font-family*, src*, font-stretch, font-style, font-weight, unicode-range (*)requeridos [CSS3 @font-face](http://www.w3schools.com/cssref/css3_pr_font-face_rule.asp)
 * CSS3 2D Transforms (IE>10 o IE>9+prefix)
