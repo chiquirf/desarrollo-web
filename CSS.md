@@ -4,7 +4,8 @@
 * Links generales: *link* (default) = *visited* y *hover* = *selected*
 * List - Shorthand property para personalizar: *ul { list-style: square inside url("sqpurple.gif"); }*
 * List: *ul { list-style-type: none;}* == *ul li { list-style: none;}*
-* *The clearfix Hack* >> no es necesario poner un div vacio al final con clear:both; solo ponder el contenedor overflow: auto;
+* *The clearfix Hack* >> no es necesario poner un div vacio al final con clear:both; solo poner al contenedor overflow: auto;
+* border-radius: orden: top-left top-right bottom-right bottom-left. Se pueden poner dos vlores por cada esquina *border-radius: 50px/15px;*
 * Usar *display: inline-block;* en vez de float: left; para crear un grid de cajas responsive.
 * SELECTORES:
   - Clases: *.nombre-clase {...}*
@@ -16,7 +17,6 @@
   - General Sibling Selector *div ~ p {...}*   (~ = Alt+126)
 * PSEUDO-CLASSES: 
   - Anchor: *a:link / a:visited / a:hover / a:active* (se pueden combinar con CSS: a.highlight:hover)
-<<<<<<< HEAD
   - Input: *:focus / :checked / :disabled / :enabled / :in-range / :invalid / :optional / :out-of-range / :read-only / :read-write / :required*
   - Parrafo: *:first-child / :first-of-type / :lang(language) (HTML: &lt;q lang="language"&gt;) / :last-child / :last-of-type / :nth-child(n) / :nth-last-child(n) / :nth-last-of-type(n) / :nth-of-type(n)* 
   - Letra capital Blog: p:first-child::first-letter {color: #ff0000; font-size:200%;}
@@ -36,10 +36,6 @@
   - *[attribute^="value"]* (empieza con caracters, [class|=top] >> SI: class="top-header" / SI:class="topcontent"> )
   - *[attribute$="value"]* (termina con caracteres)
   - *[attribute*="value"]* (contiene caracteres)
-* border-radius: orden: top-left top-right bottom-right bottom-left. Se pueden poner dos vlores por cada esquina *border-radius: 50px/15px;*
-
-
-=======
   - *:first-child* pseudo-class matches a specified element that is the first child of another element. p:first-child / p i:first-child / p:first-child i
   - :lang pseudo-class allows you to define special rules for different languages.
 
