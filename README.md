@@ -15,8 +15,9 @@ Primeros pasos para ser Maquetador Senior Web con HTML5, CSS3 y JS
 * **SEO**
     - [Microdatos](slides.com/joanleon/formatos-enriquezidos): [Schema](http://schema.org) / [Schema Creator](http://schema-creator.org/)
 * **WORDPRESS** (pendiente de definir exactamente qué estudiar pero para una primera pincelada...)
-    - Crear plantillas desde cero.
+    - Crear plantillas desde cero: [eSandra](http://www.esandra.com/crear-plantilla-wordpress-desde-cero) / [ódigo facilito](https://codigofacilito.com/videos/crea_un_tema_de_wordpress_desde_cero_parte_introduccion)
     - Crearlas con Bootstrap.
+    - Frameworks: [Gantry](http://gantry.org/)
     - listado de plugins esenciales.
 * Otros adicionales:
     - UX: User Experience (buscar donde aprender)
