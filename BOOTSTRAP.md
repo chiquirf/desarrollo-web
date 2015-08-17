@@ -12,11 +12,11 @@
 * Grid Classes: 
   - xs (for phones) / sm (for tablets) / md (for desktops) / lg (for larger desktops) >> .col-xs-4  .col-md-2
 * Basic Structure of a Bootstrap Grid
-    <code>&lt;div class="row">
-      &lt;div class="col-*-*">&lt;/div>
-      &lt;div class="col-*-*">&lt;/div>
-      &lt;div class="col-*-*">&lt;/div>
-    &lt;/div></code>
+    <pre><code><div class="row">
+  <div class="col-*-*"></div>
+  <div class="col-*-*"></div>
+  <div class="col-*-*"></div>
+</div></code></pre>
 * 
 
 
