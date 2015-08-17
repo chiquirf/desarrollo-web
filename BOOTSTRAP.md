@@ -11,7 +11,7 @@
 
 * Grid System
   - 12 columnas que se pueden agrupar (siempre debe sumar 12 por fila)
-  - col-*-* : col-(clase)-(tamaño)
+  - col- *- * : col-(clase)-(tamaño)
 
 * Grid Classes: 
   - xs (for phones) / sm (for tablets) / md (for desktops) / lg (for larger desktops) >> .col-xs-4  .col-md-2  
