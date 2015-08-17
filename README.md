@@ -44,6 +44,12 @@ Primeros pasos para ser Maquetador Senior Web con HTML5, CSS3 y JS
 * [ScreenSizes](http://screensiz.es/phone): tamaños de pantallas de móviles/tablets
 
 ###Compatibilidad entre navegadores
+http://www.impressivewebs.com/browser-usage-stats/
+http://www.netapplications.com/analytics/
+http://www.w3counter.com/globalstats.php
+http://www.statowl.com/
+http://clicky.com/
+* [netmarketshare](http://www.netmarketshare.com/): estadísticas de uso de navegadores.
 * [Stat Counter](http://gs.statcounter.com/): estadísticas de uso de navegadores.
 * [HTML5 Please](http://html5please.com/): Saber si se puede usar una funcionalidad HTML5 o CSS3 con o sin ayuda de Polyfills
 * [Can I user](http://caniuse.com/): Informa que funcionalidades de HTML5 o CSS3 es compatible con cada navegador... y más.
