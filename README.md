@@ -108,6 +108,8 @@ http://clicky.com/
 * [Opera Beta](http://www.opera.com/es/computer/beta)
 * [Opera Developers](http://www.opera.com/es/developer)
 
+### Wordpress
+* [Plugin: Cookie Law Info](https://wordpress.org/plugins/cookie-law-info/)
 
 
 
