@@ -159,11 +159,12 @@
   
 * **Panels** [ver detalles](http://www.w3schools.com/bootstrap/bootstrap_panels.asp)
   - Un panel en bootstrap es una caja con borde con un poco de padding alrededor de su contenido.
-  - BASICO: Los paneles se crea con la clase .panel y contenido dentro del panel tiene una clase .panel-body.
+  - Contenedor: Los paneles se crea con la clase .panel
   - Heading: La clase .panel-heading agrega un encabezado en el panel.
+  - Contenido: La clase .panel-body agrega un contenido en el panel.
   - Footer: La clase .panel-footer agrega un footer en el panel.
   - Group: envolver con un DIV con clase .panel-group varios paneles (quita el margin-bottom de los paneles)
-  - Contextual Classes: .panel-default, .panel-primary, .panel-success, .panel-info, .panel-warning, or .panel-danger
+  - Contextual Classes: se aplica al contenedor >> .panel-default, .panel-primary, .panel-success, .panel-info, .panel-warning, or .panel-danger
   
 * **Dropdowns** [ver detalles](http://www.w3schools.com/bootstrap/bootstrap_ref_js_dropdown.asp)
   - La clase .dropdown indica un menú desplegable.
@@ -178,21 +179,125 @@
     - <code>&lt;ul class="dropdown-menu" role="menu" aria-labelledby="menu1"></code>
     - <code>&lt;li role="presentation"><a role="menuitem" href="#">HTML</a></li></code>
   
-*   
+* **Collapse** [ver detalles](http://www.w3schools.com/bootstrap/bootstrap_ref_js_collapse.asp) 
+  - Collapse son útiles cuando se quiere ocultar y mostrar gran cantidad de contenido
+  - USO:
+    - Botón: atributos: <code>data-toggle="collapse" data-target="#demo"</code> // enlace: <code>href="#demo" data-toggle="collapse"</code>
+    - Bloque a colapsar: <code>id="demo" class="collapse"</code>
+  - Añadir la clase .in al bloque para mostrar el contenido de forma predeterminada >> <code>id="demo" class="collapse in"</code>
+  - Collapsible Panel: a un Panel Group, dentro del heading se ponen los atributos de botón o enlace, y al resto se agrupa con un DIV con <code>class="panel-collapse collapse"</code> [Try it](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_collapsible_panel&stacked=h)
+  - Collapsible List Group: a un Panel Group que el body es un ListGroup, al heading se ponen los atributos de botón o enlace, y al resto se agrupa con un DIV con <code>class="panel-collapse collapse"</code> [Try it](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_collapsible_panel&stacked=h)
+  - Accordion: 
+    - A un Panel Group se le agrega el atributo: <code>id="accordion"</code>
+    - dentro del heading se ponen los atributos de botón o enlace, y al resto se agrupa con un DIV con <code>class="panel-collapse collapse"</code>
+    - a los botones o enlaces se agrega el atributo: <code>data-parent="#accordion"</code> 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+* **Tabs and Pills** [ver detalles](http://www.w3schools.com/bootstrap/bootstrap_ref_js_tab.asp) 
+  - Tabs: Se crean con: <code>&lt;ul class="nav nav-tabs"></code> y la "página actual" se marca con <code><li class="active"></code>
+  - Tabs With Dropdown Menu: a un item: <code>&lt;li class="dropdown"></code>, al enlace <code>&lt;a class="dropdown-toggle" data-toggle="dropdown" href="#">Menu 1&lt;span class="caret">&lt;/span>&lt;/a></code> y a la lista que se despliega: <code>&lt;ul class="dropdown-menu"></code>
+  - Pills: Se crean con: <code>&lt;ul class="nav nav-pills"></code> y la "página actual" se marca con <code><li class="active"></code>
+  - Vertical Pills: igual que Pilss pero con <code>&lt;ul class="nav nav-pills nav-stacked"></code>
+  - Pills With Dropdown Menu: igual que "Tabs With Dropdown Menu".
+  - Centered Tabs and Pills: <code>&lt;ul class="nav nav-tabs nav-justified"></code> o <code>&lt;ul class="nav nav-pills nav-justified"></code>
+  - Toggable / Dynamic Tabs: 
+    - Añadir atributo <code>data-toggle="tab"</code> a cada enlace. Agregar la clase <code>.tab-pane</code> con un único ID por cada pestaña, y envolverlo en un DIV con la clase <code>.tab-content</code>
+    - Para que aparezca un contenido visible, al DIV con clase <code>.tab-pane</code> agregar las clases <code>.in .active</code> >> <code>&lt;div id="home" class="tab-pane in active"></code>
+    - Si se quiere ver con efecto fade in o fade out, al mismo agregar <code>.fade</code>
+  - Toggable / Dynamic Pills: 
+    - El mismo código se aplica a las Pills; Sólo cambiar el atributo de data-toggle por <code>data-toggle="pill"</code>
+  - [Navegation Reference](http://www.w3schools.com/bootstrap/bootstrap_ref_comp_navs.asp)
+
+* **Navigation Bar** [ver detalles](http://www.w3schools.com/bootstrap/bootstrap_navbar.asp) 
+  - Navigation Bars Default:
+    <code><pre>
+      &lt;nav class="navbar navbar-default">
+        &lt;div class="container-fluid">
+          &lt;div class="navbar-header">
+            &lt;a class="navbar-brand" href="#">WebSiteName&lt;/a>
+          &lt;/div>
+          &lt;div>
+            &lt;ul class="nav navbar-nav">
+              &lt;li class="active">&lt;a href="#">Home&lt;/a>&lt;/li>
+              &lt;li>&lt;a href="#">Page 1&lt;/a>&lt;/li>
+              &lt;li>&lt;a href="#">Page 2&lt;/a>&lt;/li> 
+              &lt;li>&lt;a href="#">Page 3&lt;/a>&lt;/li> 
+            &lt;/ul>
+          &lt;/div>
+        &lt;/div>
+      &lt;/nav>
+    </pre></code>
+  - Se puede agregar más de un <code>&lt;ul class="nav navbar-nav"></code>  
+  - Inverted Navigation Bar: cambiar <code>.navbar-default</code> por <code>.navbar-inverse</code>
+  - Fixed Navigation Bar: cuando se haga Scroll se mantenva visible: agregar <code>.navbar-fixed-top</code> o <code>navbar-fixed-bottom</code>
+  - Navigation Bar With Dropdown: se puede agregar Dropdown menu: [Try it](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_navbar_dropdown&stacked=h)
+  - Right-Aligned Navigation Bar: al <code>.navbar-nav</code> se le agrega <code>.navbar-right</code>
+  - Collapsing The Navigation Bar: 
+    - Dentro de <code>.navbar-header</code> agregar un botón con <code>&lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar"></code> (NOTA: con 3 veces <code>&lt;span class="icon-bar">&lt;/span></code> se consigue el típico botón de tres líneas)
+    - el DIV que en envuelve al UL.navbar-nav agregar: <code>class="collapse navbar-collapse" id="myNavbar"</code> : [Try it](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_navbar_collapse&stacked=h)
+    
+* **Forms**
+  - Default Settings: Controles de formulario automáticamente reciben algún estilo global con Bootstrap: Todol los elementos textuales <code>&lt;input></code>, <code>&lt;textarea></code> y <code>&lt;select></code> con la clase de <code>.form-control</code> tienen una anchura de 100%
+  - Form Layouts
+    - TIPOS: Vertical form (this is default) / Horizontal form / Inline form
+    - REGLAS:
+      - Siempre usar <code>&lt;form role="form"></code> (ayuda a mejorar la accesibilidad)
+      - Envolver elementos LABEL e elementos de control con <code>&lt;div class="form-group></code> (para optimizar el espacio)
+      - Agregar la clase >code>.form-control> a todos los <code>&lt;input></code>, <code>&lt;textarea></code> y <code>&lt;select></code>
+  - Vertical Form (default)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
