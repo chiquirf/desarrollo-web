@@ -62,7 +62,7 @@ http://clicky.com/
 * [Bootstrap](http://getbootstrap.com/): CSS Framework
 * [Ink](http://zurb.com/ink/): Mail Framework
     
-###Microdatos
+### Microdatos
 * [Microdatos](slides.com/joanleon/formatos-enriquezidos): presentación de curso sobre microdatos, importantes para SEO
 * [Schema](http://schema.org): Schema de los microdatos
 * [Schema Creator](http://schema-creator.org/): Generador de Schemas básicos.
