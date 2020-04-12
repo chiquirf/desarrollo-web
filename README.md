@@ -27,7 +27,7 @@ Primeros pasos para ser Maquetador Senior Web con HTML5, CSS3 y JS
 
 ## ENLACES DE INTERÉS
 
-###Test y validaciones
+### Test y validaciones
 * [HTML5 Test](http://html5test.com/): test de compatibilidad de tu navegador.
 * [CSS3 Test](http://css3test.com/): test de compatibilidad de tu navegador.
 * [CSS Stats](http://cssstats.com/): análisis de tu web para optimizar (por ejemplo unificar #fff = #ffffff = #eee)
@@ -38,13 +38,13 @@ Primeros pasos para ser Maquetador Senior Web con HTML5, CSS3 y JS
 * [NTH-TEST](http://nth-test.com/): Test de PseudosElementos.
 
 
-###Documentación
+### Documentación
 * [MDN](https://developer.mozilla.org/es/): Mozilla Developer Network - Documentación de estándar W3C.
 * [W3School](http://www.w3schools.com/): Documentación de estándar W3C, ejemplos, ayuda, etc...
 * [Velocity](https://velocity.silverlakesoftware.com/): Documentation Library (Dash para Win)
 * [ScreenSizes](http://screensiz.es/phone): tamaños de pantallas de móviles/tablets
 
-###Compatibilidad entre navegadores
+### Compatibilidad entre navegadores
 http://www.impressivewebs.com/browser-usage-stats/
 http://www.netapplications.com/analytics/
 http://www.w3counter.com/globalstats.php
@@ -56,7 +56,7 @@ http://clicky.com/
 * [Can I user](http://caniuse.com/): Informa que funcionalidades de HTML5 o CSS3 es compatible con cada navegador... y más.
 
 
-###Frameworks
+### Frameworks
 * [Boilerplate](https://html5boilerplate.com/): HTML Framework
 * [SASS](http://sass-lang.com/) : CSS Framework
 * [Bootstrap](http://getbootstrap.com/): CSS Framework
@@ -68,12 +68,12 @@ http://clicky.com/
 * [Schema Creator](http://schema-creator.org/): Generador de Schemas básicos.
 
 
-###Iconos con Fonts
+### Iconos con Fonts
 * [FontAwesome](http://fortawesome.github.io/Font-Awesome/): iconos con fuentes
 * [LittleBox](http://littlebox.cabmaddux.com/): iconos con fuentes
 * [IconMoon](https://icomoon.io/): iconos con fuentes
 
-###Ejemplos, tutoriales y herramientas
+### Ejemplos, tutoriales y herramientas
 * [CODEPEN](http://codepen.io/): repositorios de códigos de ejemplo con HTML CSS y JS (puedes crearlo tuyos propios)
 * [HTML5 Pattern](http://html5pattern.com/): Expresiones regulares básicas.
 * [Sprites](http://coolvillage.es/entendiendo-los-sprites/): Entendiendo los sprites (conjunto de imágenes agrupadas en una sola imagen)
@@ -114,7 +114,7 @@ http://clicky.com/
 
 
 
-##NOMBRES DE FRAMEWORKS:
+## NOMBRES DE FRAMEWORKS:
 - bass css
 - bootstrap
 - building-blocks
